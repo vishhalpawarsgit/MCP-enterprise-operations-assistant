@@ -1,0 +1,29 @@
+[
+  {
+    "ticket_id": "INC-1001",
+    "customer_id": "C001",
+    "priority": "High",
+    "status": "Open",
+    "category": "Access",
+    "assigned_to": "Arjun Patel",
+    "description": "Unable to access Databricks workspace"
+  },
+  {
+    "ticket_id": "INC-1002",
+    "customer_id": "C002",
+    "priority": "Medium",
+    "status": "In Progress",
+    "category": "Application",
+    "assigned_to": "Neha Kulkarni",
+    "description": "Sales dashboard refresh is delayed"
+  },
+  {
+    "ticket_id": "INC-1003",
+    "customer_id": "C001",
+    "priority": "Low",
+    "status": "Closed",
+    "category": "Access",
+    "assigned_to": "Arjun Patel",
+    "description": "Previous workspace access request"
+  }
+]

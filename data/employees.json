@@ -1,0 +1,40 @@
+[
+  {
+    "employee_id": "E101",
+    "name": "Priya Sharma",
+    "department": "Data Engineering",
+    "designation": "Senior Data Engineer",
+    "skills": [
+      "Python",
+      "Spark",
+      "Azure",
+      "Databricks"
+    ],
+    "leave_status": "No approved leave"
+  },
+  {
+    "employee_id": "E102",
+    "name": "Arjun Patel",
+    "department": "IT Operations",
+    "designation": "Cloud Engineer",
+    "skills": [
+      "Azure",
+      "Networking",
+      "Security"
+    ],
+    "leave_status": "Approved leave"
+  },
+  {
+    "employee_id": "E103",
+    "name": "Neha Kulkarni",
+    "department": "Data Engineering",
+    "designation": "Data Engineer",
+    "skills": [
+      "Python",
+      "SQL",
+      "Databricks",
+      "dbt"
+    ],
+    "leave_status": "No approved leave"
+  }
+]

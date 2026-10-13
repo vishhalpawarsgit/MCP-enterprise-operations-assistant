@@ -1,0 +1,17 @@
+[
+  {
+    "policy_id": "POL-001",
+    "title": "Databricks Access Policy",
+    "content": "Employees must request workspace access through the IT service desk. Access must be approved by the relevant manager and follow least-privilege principles. Production access requires additional authorization."
+  },
+  {
+    "policy_id": "POL-002",
+    "title": "Incident Management Policy",
+    "content": "High-priority incidents must be triaged promptly. The assigned support team must record investigation steps, communicate material status changes, and close an incident only after resolution is verified."
+  },
+  {
+    "policy_id": "POL-003",
+    "title": "Customer Data Handling Policy",
+    "content": "Customer information must be accessed only for authorized business purposes. Sensitive data must not be disclosed to unauthorized users or included in unapproved external services."
+  }
+]

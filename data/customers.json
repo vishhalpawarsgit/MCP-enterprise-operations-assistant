@@ -1,0 +1,26 @@
+[
+  {
+    "customer_id": "C001",
+    "customer_name": "ABC Industries",
+    "industry": "Manufacturing",
+    "account_manager": "Rahul Mehta",
+    "annual_revenue": 12000000,
+    "status": "Active"
+  },
+  {
+    "customer_id": "C002",
+    "customer_name": "Northstar Retail",
+    "industry": "Retail",
+    "account_manager": "Priya Shah",
+    "annual_revenue": 8500000,
+    "status": "Active"
+  },
+  {
+    "customer_id": "C003",
+    "customer_name": "BluePeak Logistics",
+    "industry": "Logistics",
+    "account_manager": "Rahul Mehta",
+    "annual_revenue": 6400000,
+    "status": "Active"
+  }
+]
