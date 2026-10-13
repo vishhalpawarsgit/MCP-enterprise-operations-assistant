@@ -1,4 +1,4 @@
-# IntelliBI Enterprise Operations Assistant
+# MCP Enterprise Operations Assistant
 
 A modular learning project that demonstrates how to build an enterprise operations assistant using **Python, `uv`, the Model Context Protocol (MCP), Groq, and Streamlit**.
 
@@ -476,5 +476,4 @@ Run the last command only after dependencies are installed and `.env` is configu
 - Groq API documentation: <https://console.groq.com/docs>
 - Streamlit documentation: <https://docs.streamlit.io/>
 """
-
 
